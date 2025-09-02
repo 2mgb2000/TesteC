@@ -3,46 +3,22 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="BackendCodeEditorMiscSettings">
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-  </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
-  <component name="CMakeProjectFlavorService">
-    <option name="flavorId" value="CMakePlainProjectFlavor" />
-  </component>
-  <component name="CMakeReloadState">
-    <option name="reloaded" value="true" />
-  </component>
-  <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="TesteC" targetName="TesteC" />
-    </generated>
-  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd1ed21-f69d-4894-9529-0e807c8d0221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha1/ex1_ficha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha1/ex2_ficha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha1/ex3_ficha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha1/ex4_ficha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha1/ex5_ficha1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha2/ex1_ficha2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha2/ex2_ficha2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha2/ex3_ficha2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha2/ex4_ficha2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula1-2/ficha2/ex5_ficha2.c" afterDir="false" />
+    <list default="true" id="b724d9e6-122f-43cd-a558-8cc3cc4af13c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TesteC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TesteC.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula1-2/exercicios1/notas.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula1-2/exercicios1/test.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula1-2/ficha1_solucoes/Ex1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,39 +28,15 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="328tvXAGVEBnmu8tpxf7KVLdnHI" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "C/C++ File.Ex3.c.executor": "Run",
-    "C/C++ File.Ex4.c.executor": "Run",
-    "C/C++ File.ex1_ficha1.c.executor": "Run",
-    "C/C++ File.ex1_ficha2.c.executor": "Run",
-    "C/C++ File.ex2_ficha1.c.executor": "Run",
-    "C/C++ File.ex3_ficha1.c.executor": "Run",
-    "C/C++ File.ex3_ficha2.c.executor": "Run",
-    "C/C++ File.ex4_ficha1.c.executor": "Run",
-    "C/C++ File.ex5_ficha1.c.executor": "Run",
-    "C/C++ File.ex5_ficha2.c.executor": "Run",
-    "C/C++ File.exercicio_loop_contagem_regressiva.c.executor": "Run",
-    "C/C++ File.exercicio_switch_case_dias.c.executor": "Run",
-    "C/C++ File.notas.c.executor": "Run",
-    "C/C++ File.test.c.executor": "Run",
-    "CMake Application.TesteC.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,97 +47,28 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/2mgb2000/Documents/TI_shared/0784_C/Teste/TesteC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\2mgb2000\Documents\TI_shared\0784_C\Teste\TesteC\aula1-2\ficha1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="C/C++ File.ex5_ficha2.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="TesteC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TesteC" RUN_TARGET_NAME="TesteC">
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="Ex4.c" CONFIG_NAME="Ex4.c">
-      <option name="sourceFile" value="aula1-2\ficha1-solucoes\Ex4.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex1_ficha2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="ex1_ficha2.c" CONFIG_NAME="ex1_ficha2.c">
-      <option name="sourceFile" value="aula1-2\ficha2\ex1_ficha2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex3_ficha2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="ex3_ficha2.c" CONFIG_NAME="ex3_ficha2.c">
-      <option name="sourceFile" value="aula1-2\ficha2\ex3_ficha2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex5_ficha1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="ex5_ficha1.c" CONFIG_NAME="ex5_ficha1.c">
-      <option name="sourceFile" value="aula1-2\ficha1\ex5_ficha1.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex5_ficha2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="ex5_ficha2.c" CONFIG_NAME="ex5_ficha2.c">
-      <option name="sourceFile" value="aula1-2\ficha2\ex5_ficha2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="C/C++ File.ex5_ficha2.c" />
-      <item itemvalue="C/C++ File.ex3_ficha2.c" />
-      <item itemvalue="C/C++ File.ex1_ficha2.c" />
-      <item itemvalue="C/C++ File.ex5_ficha1.c" />
-      <item itemvalue="C/C++ File.Ex4.c" />
-      <item itemvalue="CMake Application.TesteC" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="C/C++ File.ex5_ficha2.c" />
-        <item itemvalue="C/C++ File.ex3_ficha2.c" />
-        <item itemvalue="C/C++ File.ex1_ficha2.c" />
-        <item itemvalue="C/C++ File.ex5_ficha1.c" />
-        <item itemvalue="C/C++ File.Ex4.c" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fd1ed21-f69d-4894-9529-0e807c8d0221" name="Changes" comment="" />
-      <created>1756799477122</created>
+      <changelist id="b724d9e6-122f-43cd-a558-8cc3cc4af13c" name="Changes" comment="" />
+      <created>1756819085853</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756799477122</updated>
-      <workItem from="1756799478735" duration="8659000" />
-      <workItem from="1756814278623" duration="4622000" />
+      <updated>1756819085853</updated>
+      <workItem from="1756819087185" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VCPKGProject">
-    <isAutomaticCheckingOnLaunch value="false" />
-    <isAutomaticFoundErrors value="true" />
-    <isAutomaticReloadCMake value="true" />
   </component>
 </project>
