@@ -18,7 +18,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd1ed21-f69d-4894-9529-0e807c8d0221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_loop_contagem_regressiva.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_switch_case_dias.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notas.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.exercicio_loop_contagem_regressiva.c.executor": "Run",
+    "C/C++ File.exercicio_switch_case_dias.c.executor": "Run",
+    "C/C++ File.notas.c.executor": "Run",
     "C/C++ File.test.c.executor": "Run",
     "CMake Application.TesteC.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -54,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.test.c">
+  <component name="RunManager" selected="C/C++ File.exercicio_loop_contagem_regressiva.c">
     <configuration name="TesteC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="TesteC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TesteC" RUN_TARGET_NAME="TesteC">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -65,6 +72,24 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio_loop_contagem_regressiva.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="exercicio_loop_contagem_regressiva.c" CONFIG_NAME="exercicio_loop_contagem_regressiva.c">
+      <option name="sourceFile" value="exercicio_loop_contagem_regressiva.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio_switch_case_dias.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="exercicio_switch_case_dias.c" CONFIG_NAME="exercicio_switch_case_dias.c">
+      <option name="sourceFile" value="exercicio_switch_case_dias.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="notas.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="notas.c" CONFIG_NAME="notas.c">
+      <option name="sourceFile" value="notas.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TesteC" TARGET_NAME="test.c" CONFIG_NAME="test.c">
       <option name="sourceFile" value="test.c" />
       <method v="2">
@@ -72,11 +97,17 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.exercicio_loop_contagem_regressiva.c" />
+      <item itemvalue="C/C++ File.exercicio_switch_case_dias.c" />
+      <item itemvalue="C/C++ File.notas.c" />
       <item itemvalue="C/C++ File.test.c" />
       <item itemvalue="CMake Application.TesteC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.exercicio_loop_contagem_regressiva.c" />
+        <item itemvalue="C/C++ File.exercicio_switch_case_dias.c" />
+        <item itemvalue="C/C++ File.notas.c" />
         <item itemvalue="C/C++ File.test.c" />
       </list>
     </recent_temporary>
@@ -88,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756799477122</updated>
-      <workItem from="1756799478735" duration="3252000" />
+      <workItem from="1756799478735" duration="8659000" />
     </task>
     <servers />
   </component>
