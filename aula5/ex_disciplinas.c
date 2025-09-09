@@ -2,7 +2,6 @@
 
 
 int main() {
-    int limite = 3;
     int numero_disc;
     
     printf("=== LISTA DE DISCIPLINAS ===\n\n");
@@ -12,24 +11,27 @@ int main() {
     scanf("%d", &numero_disc);
 
     // limitar a 3 max
-    if (numero_disc > limite) {
-        numero_disc = limite;
-        printf("\nMaximo %d disciplinas. Ajustado para %d.\n", limite, limite);
+    if (numero_disc > 3) {
+        numero_disc = 3;
+        printf("\nMaximo 3 disciplinas. Ajustado para 3.\n");
     }
 
     // pedir disciplinas
     char disciplinas[numero_disc][20];
-    
+
+    // limpar '\n' que sobrou do scanf
+    getchar();
+
     for (int i = 0; i < numero_disc; i++) {
-            printf("\nDisciplina %d: ", i+1);
+            printf("Disciplina %d: ", i+1);
+            //scanf("%19[^\n]", disciplinas[i]);
             fgets(disciplinas[i], sizeof(disciplinas[i]), stdin);
-            // scanf("%49[^\n]", disciplinas[i]);
         }
 
     // imprimir lista de disciplinas
-    printf("\nDisciplinas inseridas:\n");
+    printf("\n\nDisciplinas inseridas:\n");
     for (int i = 0; i < numero_disc; i++) {
-        printf("Disciplina %i: %s\n", i+1, disciplinas[i]);
+        printf("Disciplina %i: %s", i+1, disciplinas[i]);
     }
 
     return 0;
