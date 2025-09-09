@@ -18,4 +18,5 @@ add_executable(TesteC main.c
         aula1-2/ficha2/ex3_ficha2.c
         aula1-2/ficha2/ex4_ficha2.c
         aula1-2/ficha2/ex5_ficha2.c
+        aula3/ex_juntar_strings_arrays.c
 )
