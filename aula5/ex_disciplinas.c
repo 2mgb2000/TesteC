@@ -24,14 +24,14 @@ int main() {
 
     for (int i = 0; i < numero_disc; i++) {
             printf("Disciplina %d: ", i+1);
-            //scanf("%19[^\n]", disciplinas[i]);
-            fgets(disciplinas[i], sizeof(disciplinas[i]), stdin);
+            scanf(" %19[^\n]", disciplinas[i]);
+            //fgets(disciplinas[i], sizeof(disciplinas[i]), stdin);
         }
 
     // imprimir lista de disciplinas
     printf("\n\nDisciplinas inseridas:\n");
     for (int i = 0; i < numero_disc; i++) {
-        printf("Disciplina %i: %s", i+1, disciplinas[i]);
+        printf("Disciplina %i: %s\n", i+1, disciplinas[i]);
     }
 
     return 0;
